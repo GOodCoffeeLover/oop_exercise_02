@@ -117,7 +117,7 @@ int main(){
 				break;
 			case 9 :
 				ans=lhs * rhs;
-				std::cout<<lhs<<" - "<<rhs<<" = "<<ans<<std::endl;  
+				std::cout<<lhs<<" * "<<rhs<<" = "<<ans<<std::endl;  
 				break;
 			
 			case 10 :
